@@ -1,1 +1,1 @@
-# Random-Chess-AI-vs-Player-Game
+# random-chess-v0
